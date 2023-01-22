@@ -1,0 +1,40 @@
+{
+    "formes": [
+      { "id": 1, "title": "rond", "code": "FORM001" },
+      { "id": 2, "title": "carré", "code": "FORM002" },
+      { "id": 3, "title": "losange", "code": "FORM003" },
+      { "id": 4, "title": "rectangle", "code": "FORM004" }
+    ],
+    "colles": [
+      { "id": 1, "title": "vinylique", "code": "COL001" },
+      { "id": 2, "title": "acrilyque", "code": "COL002" },
+      { "id": 3, "title": "cyanoacrylate", "code": "COL003" },
+      { "id": 4, "title": "néoprène", "code": "COL004" },
+      { "id": 5, "title": "époxy", "code": "COL005" },
+      { "id": 6, "title": "polymère", "code": "COL006" },
+      { "id": 7, "title": "polyuréthane", "code": "COL007" }
+    ],
+    "coutures": [
+      { "id": 1, "title": "ouverte", "code": "COUTU001" },
+      { "id": 2, "title": "couchée", "code": "COUTU002" },
+      { "id": 3, "title": "anglaise", "code": "COUTU003" },
+      { "id": 4, "title": "rabattue", "code": "COUTU004" },
+      { "id": 5, "title": "parisienne", "code": "COUTU005" }
+    ],
+    "textiles": [
+      { "id": 1, "title": "soie", "code": "TEXTI001" },
+      { "id": 2, "title": "coton", "code": "TEXTI002" },
+      { "id": 3, "title": "laine", "code": "TEXTI003" },
+      { "id": 4, "title": "lin", "code": "TEXTI004" },
+      { "id": 5, "title": "cuir", "code": "TEXTI005" },
+      { "id": 6, "title": "polyester", "code": "TEXTI006" },
+      { "id": 7, "title": "viscose", "code": "TEXTI007" },
+      { "id": 8, "title": "soie", "code": "TEXTI008" },
+      { "id": 9, "title": "lyocell", "code": "TEXTI009" }
+    ],
+    "fils": [
+      { "id": 1, "title": "coton", "code": "FIL001" },
+      { "id": 2, "title": "métallique", "code": "FIL002" },
+      { "id": 3, "title": "élastique", "code": "FIL003" }
+    ]
+  }
