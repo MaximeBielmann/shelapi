@@ -3,7 +3,8 @@
       { "id": 1, "title": "rond", "code": "FORM001" },
       { "id": 2, "title": "carré", "code": "FORM002" },
       { "id": 3, "title": "losange", "code": "FORM003" },
-      { "id": 4, "title": "rectangle", "code": "FORM004" }
+      { "id": 4, "title": "rectangle", "code": "FORM004" },
+      { "id": 5, "title": "étoile", "code": "FORM005" }
     ],
     "colles": [
       { "id": 1, "title": "vinylique", "code": "COL001" },
